@@ -1,0 +1,4 @@
+a {list-style:roman; color:#7CFC00; font-size:26px;}
+p {list-style:roman; color:#7CFC00; font-size:26px;}
+.font { list-style:roman; color:#7CFC00; }
+.font, h1, h2, h3{list-style:roman; color:#7CFC00;}

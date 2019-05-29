@@ -1,0 +1,19 @@
+.error {
+    color: #FF0000;
+}
+a, p {
+    list-style:roman;
+    font-size:20px;
+}
+h1 {
+    list-style:roman;
+    font-size:30px;
+}
+.font, h2, td {
+    list-style:roman;
+    font-size:25px;
+}
+h3 {
+    list-style:roman;
+    font-size:20px;
+}

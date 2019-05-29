@@ -1,0 +1,6 @@
+table, th, td { border: 3px solid blue; border-collapse: collapse; color:#00008B;}
+th, td { padding: 5px;}
+form {list-style:new-roman; color:#00008B; font-size:16px;}
+h1 {list-style:roman; font-size:35px; color:#00008B;}
+h2 {list-style:roman; font-size:30px; color:#00008B;}
+h3, a {list-style:roman; font-size:25px; color:#00008B;}

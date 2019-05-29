@@ -1,0 +1,25 @@
+.container {
+    background-color:#6495ED;
+    margin:auto;
+    padding-left: 15px;
+}
+.content { 
+    margin: auto;
+    width: 600px;
+}
+.label { 
+    display: inline-block;
+}
+.tab { 
+    padding: 10px;
+}
+#padding{
+    padding-left: 10%;
+}
+.merch{
+    padding: 10px;
+}
+.magsub{
+    padding-top: 10px;
+    padding-left: 50px;
+}
